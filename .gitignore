@@ -1,0 +1,5 @@
+nogit
+data/*
+.idea
+__pycache__
+nogit/*
